@@ -1,0 +1,8 @@
+{
+  "name": "ONTRA - Verified P2P Marketplace",
+  "description": "ONTRA (Online Network for Trusted Resale and Access) — Verified Indian peer-to-peer marketplace with structured INR escrow, product evidence, buyer inspection, and secure seller payouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
